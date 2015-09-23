@@ -20,6 +20,7 @@ install.packages("TSA",dependencies=TRUE)
 install.packages("tmvtnorm",dependencies=TRUE)
 install.packages("xts",dependencies=TRUE)
 install.packages("zoo",dependencies=TRUE)
+install.packages("emulator",dependencies=TRUE)
 
 
 
